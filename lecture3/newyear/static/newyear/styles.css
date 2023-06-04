@@ -1,0 +1,11 @@
+h1 {
+    font-family: sans-serif;
+    font-size: 90px;
+    text-align: center;
+}
+
+.big {
+    font-size: 150px;
+    color: white;
+    background-color: black;
+}
